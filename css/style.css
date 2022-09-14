@@ -76,8 +76,7 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-width: 0px 0px 2px 5px;
 }
 
 .yellow p{
@@ -91,7 +90,7 @@ div {
     border-width: 2px 5px 0px 0px;
 }
 
-.gree h2, .green p{
+.green h2, .green p{
     color: #FFFFFF;
 
 }
